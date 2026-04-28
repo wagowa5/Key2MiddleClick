@@ -1,0 +1,2 @@
+# Key2MiddleClick
+Menuキーをマウスのホイールクリックに変換する
